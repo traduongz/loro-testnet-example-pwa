@@ -10,6 +10,7 @@ on:
 env:
   CERC_REGISTRY_USER_KEY: ${{ secrets.CICD_LACONIC_USER_KEY }}
   CERC_REGISTRY_BOND_ID: ${{ secrets.CICD_LACONIC_BOND_ID }}
+  AUTHORITY_NAME: ${{ secrets.AUTHORITY_NAME }}
 
 jobs:
   cns_publish:
