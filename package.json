@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "@traduongz/pwa-test-07",
-  "version": "0.1.7",
+  "name": "@traduongz/pwa-test-08",
+  "version": "0.1.8",
   "repository": "https://github.com/traduongz/loro-testnet-example-pwa",
   "scripts": {
     "dev": "next dev",
